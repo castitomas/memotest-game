@@ -1,0 +1,23 @@
+{
+  "name": "memotest",
+  "version": "1.0.0",
+  "description": "Memotest game",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castitomas/memotest-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castitomas/memotest-game/issues"
+  },
+  "homepage": "https://github.com/castitomas/memotest-game#readme"
+}
